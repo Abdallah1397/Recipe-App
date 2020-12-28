@@ -1,0 +1,192 @@
+.foot{
+    display: block;
+    background-color: #02041C;
+    color:#B42D26;
+    font-family: cursive;
+  }
+@media only screen and (min-width: 100px) and (max-width:768px)
+{
+.HomeVideo{
+    position: relative;
+    height: 80%;
+
+}
+.welcome{
+    color: white;
+    font-size: 180%;
+    position: absolute;
+    margin-top:5px;
+    margin-left: -20px;
+
+}
+
+.pargraph{
+    color: white;
+    font-size: 100%;
+    font-style: italic;
+    text-align: start;
+    position: absolute;
+    margin-top: 35px;
+      
+}
+.vid{
+    width: 100%;
+    height: 100%;
+}
+.overlay{
+    position: absolute;
+    transform: translateY(40%) translateX(40%);
+    z-index: 1;
+    width: 65%;
+}
+.find{
+    font-size: 40px;
+    margin-top:2%;
+    margin-left: 1%;
+
+}
+.findDiv{
+    width: 100%;
+    height: 100%;
+}
+.label1{
+    text-align: start;
+    position: absolute;
+    background-color: lightblue;
+    opacity: .5;
+}
+.label1:hover{
+    opacity: 2;
+}
+.findVideo{
+    width: 90%;
+    height: 100%;
+    margin-left: 5%;
+}
+}
+@media only screen and (min-width: 769px) and (max-width:979px)
+{
+    .find{
+        font-size: 60px;
+        margin-top:2%;
+        margin-left: 1%;
+    
+    }
+.HomeVideo{
+    position: relative;
+    height: 80%;
+
+}
+.welcome{
+    color: white;
+    font-size: 50px;
+    position: absolute;
+    margin-top:18%;
+
+}
+
+.pargraph{
+    color: white;
+    font-size: 20px;
+    font-style: italic;
+    text-align: start;
+    position: absolute;
+    margin-top: 29%;
+    
+
+    
+}
+.vid{
+    width: 100%;
+}
+.overlay{
+    position: absolute;
+    transform: translateY(40%) translateX(40%);
+    z-index: 1;
+    width: 65%;
+}
+.findDiv{
+    width: 45%;
+    margin-left: 5%;
+    display: inline-block;
+}
+.label1{
+    text-align: start;
+    position: absolute;
+    width: 200px;
+    background-color: lightblue;
+    opacity: .5;
+}
+.label1:hover{
+    opacity: 2;
+}
+.findVideo{
+    width: 90%;
+    margin-left: 5%;
+}
+}
+@media only screen and (min-width: 980px)
+{
+    .find{
+        font-size: 80px;
+        margin-top:2%;
+        margin-left: 1%;
+    
+    }
+.HomeVideo{
+    position: relative;
+    height: 80%;
+
+}
+.welcome{
+    color: white;
+    font-size: 100px;
+    position: absolute;
+    margin-top:14%;
+
+}
+.recipeSpan{
+    font-family: cursive;
+    font-size: 40px;
+}
+.pargraph{
+    color: white;
+    font-size: 25px;
+    font-style: italic;
+    text-align: start;
+    position: absolute;
+    margin-top: 280px;
+    
+
+    
+}
+.vid{
+    width: 100%;
+    height: 700px;
+}
+.overlay{
+    position: absolute;
+    transform: translateY(50%) translateX(50%);
+    z-index: 1;
+    width: 65%;
+}
+.findDiv{
+    width: 45%;
+    margin-left: 5%;
+    display: inline-block;
+}
+.label1{
+    text-align: start;
+    position: absolute;
+    background-color: lightblue;
+    opacity: .5;
+    width: 200px;
+}
+.label1:hover{
+    opacity: 2;
+}
+.findVideo{
+    width: 90%;
+    margin-left: 5%;
+}
+}

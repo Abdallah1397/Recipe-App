@@ -1,0 +1,43 @@
+{
+    "videos": [{
+        "id": 1,
+        "video": "/videos/Coffe.mp4",
+        "label": "Hot Drinks"
+    },
+    {
+        "id": 2,
+        "video": "/videos/RedDrink.mp4",
+        "label": "Cold Drinks"
+    },
+    {
+        "id": 3,
+        "video": "/videos/FruitSalad.mp4",
+        "label": "Fruit Salad"
+    },
+    {
+        "id": 4,
+        "video": "/videos/Cooking.mp4",
+        "label": "Vegetables Salad"
+    },
+    {
+        "id": 5,
+        "video": "/videos/Prawn.mp4",
+        "label": "Sea Food"
+    },
+    {
+        "id": 6,
+        "video": "/videos/Roast.mp4",
+        "label": "Meat"
+    },
+    {
+        "id": 7,
+        "video": "/videos/Spicy.mp4",
+        "label": "Chickens"
+    },
+    {
+        "id": 8,
+        "video": "/videos/Pizza.mp4",
+        "label": "Pizza"
+    }
+]
+}

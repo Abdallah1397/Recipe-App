@@ -1,0 +1,71 @@
+.fontList{
+    color: white;
+    text-decoration: none;
+    font-family: cursive;
+    margin-top: 20%;
+    font-size: xx-large;
+}
+.fontList:hover{
+    color: tomato;
+}
+.listgroupitem{
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 120px;
+    margin-left: 4%;
+}
+.listgroup{
+    margin-left: 40%;  
+}
+
+
+@media only screen and (min-width: 100px) and (max-width: 768px){
+.container{
+    background-color: #02041C;
+    height: 200px;
+
+    }
+    .logo{
+        float: left;
+        margin-left: 2%;
+        margin-top: 2%;
+        display: inline;
+        width: 100PX;
+    }
+    .listgroupitem{
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 4%;
+}
+.listgroup{
+    margin-left: 10%;  
+}
+}
+@media only screen and (min-width: 769px) and (max-width: 919px){
+    .container{
+        background-color: #02041C;
+        height: 200px;
+    
+    }
+    .logo{
+        float: left;
+        margin-left: 2%;
+        margin-top: 2%;
+        display: inline;
+    }
+    }
+    @media only screen and (min-width: 920px){
+        .container{
+            background-color: #02041C;
+            height: 200px;
+        
+        }
+        .logo{
+            float: left;
+            margin-left: 5%;
+            margin-top: 1%;
+            display: inline;
+        }
+        
+    }
